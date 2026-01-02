@@ -16,7 +16,7 @@ timezone:
 
 title: Christos Evangelou # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Personal blog # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Personal Blog
