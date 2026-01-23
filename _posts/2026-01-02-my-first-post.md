@@ -4,8 +4,7 @@ date: 2026-01-01
 categories: [blog]
 tags: [welcome]
 image:
-
-  alt: "My photo"
+  path:
 ---
 
 Hello 👋  
