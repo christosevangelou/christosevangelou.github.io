@@ -4,7 +4,7 @@ date: 2026-01-01
 categories: [blog]
 tags: [welcome]
 image:
-  path: /assets/img/my-first-post/Screenshot_20260101_200233_Facebook.jpg
+
   alt: "My photo"
 ---
 
